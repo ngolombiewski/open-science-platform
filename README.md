@@ -3,7 +3,6 @@
 Work in progress – building a production-style data pipeline for global research metadata using OpenAlex and a modern data stack.
 This is meant to become a capstone project for the Data Engineering Zoomcamp 2026.
 
----
 
 ## Problem Idea (draft)
 
@@ -20,8 +19,6 @@ This project aims to build a data pipeline that:
 6. Serves the data through a simple dashboard
 
 
----
-
 ## High-Level Architecture (draft)
 
 OpenAlex API  
@@ -33,7 +30,6 @@ OpenAlex API
 - dbt transformations  
 - Dashboard
 
----
 
 ## Planned Technology Stack
 
@@ -48,7 +44,6 @@ OpenAlex API
 
 The exact processing engine between raw lake data and the warehouse is intentionally left open for now.
 
----
 
 ## Data Source
 
